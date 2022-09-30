@@ -6,6 +6,11 @@ description: Unofficial resources for Discord.
 
 # Unofficial Resources
 
+## Summary of Discords Terms
+
+> **Description:** An easy to read summary of Discords terms of service and privacy policy provided by tosdr.org. (currently out of date)   <br/>
+**Link:** [Discord on ToS;dr](https://tosdr.org/en/service/536)   <br/>
+
 ## Discord Lists
 
 > **Description:** A giant list of various Discord things, ranging from the domains currently used by Discord, to undocumented user flags, to known activity application ids, to lists of known partner & verified server invites.   <br/>
